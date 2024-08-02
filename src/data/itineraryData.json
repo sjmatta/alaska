@@ -1,0 +1,368 @@
+{
+  "title": "Alaskan Cruise Itinerary for the Matta Family",
+  "days": [
+    {
+      "date": "2024-08-08",
+      "title": "Thursday, August 8, 2024",
+      "activities": [
+        {
+          "time": "17:45",
+          "description": "Depart from Washington Dulles International Airport (IAD) on AC 1037"
+        },
+        {
+          "time": "20:33",
+          "description": "Arrive at Vancouver International Airport (YVR)"
+        },
+        {
+          "description": "Check-in at Blue Horizon Hotel (1225 Robson St, Vancouver, BC V6E 1C3)"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Politician-looking type glued to their phone, arguing policy",
+        "Someone in a suit and sneakers (the classic D.C. commuter look)",
+        "Overachieving intern juggling coffee and a stack of documents",
+        "Person passionately debating their favorite Smithsonian museum",
+        "Jet-setting diplomat casually mentioning their next international destination"
+      ],
+      "wildlifeTip": "Keep an eye out for local wildlife even in urban areas. Vancouver is home to various bird species, including crows, gulls, and occasionally bald eagles.",
+      "photographyTip": "As you land in Vancouver, capture the contrast between the bustling airport and the tranquil mountain backdrop. The golden hour light just before sunset can create a stunning glow on the city. Consider using your phone's HDR mode to balance the bright sky with darker foreground elements.",
+      "mapInfo": {
+        "latitude": 49.2827,
+        "longitude": -123.1207,
+        "zoomLevel": 14
+      }
+    },
+    {
+      "date": "2024-08-09",
+      "title": "Friday, August 9, 2024",
+      "activities": [
+        {
+          "description": "Explore Vancouver: Stanley Park, Granville Island, Yaletown"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Polite person saying \"sorry\" for no reason",
+        "Hockey fan wearing a Canucks jersey",
+        "Lumberjack-looking hipster sipping craft beer",
+        "Someone wearing shorts and flip-flops in surprisingly cold weather",
+        "Local complaining about housing prices (it's a national pastime)"
+      ],
+      "wildlifeTip": "In Stanley Park, look for raccoons, squirrels, and a variety of bird species. The park is also home to a beaver lake, where you might spot these industrious creatures.",
+      "photographyTip": "At Stanley Park, look for reflections in Lost Lagoon for symmetrical compositions. Use a wide-angle lens to capture the expanse of the park with the city skyline in the background. At Granville Island, focus on close-up shots of colorful produce and artisanal crafts at the Public Market. The vibrant colors make for great Instagram-worthy photos.",
+      "mapInfo": {
+        "latitude": 49.2827,
+        "longitude": -123.1207,
+        "zoomLevel": 14,
+        "description": "Detailed view of downtown Vancouver, highlighting Stanley Park, Granville Island, and Yaletown"
+      }
+    },
+    {
+      "date": "2024-08-10",
+      "title": "Saturday, August 10, 2024",
+      "activities": [
+        {
+          "time": "12:00",
+          "description": "Lunch at Miku Restaurant (200 Granville St #70)"
+        },
+        {
+          "time": "17:00",
+          "endTime": "19:00",
+          "description": "Capilano Suspension Bridge (Confirmation #20240617-4817679)"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Douglas squirrels",
+        "Varied thrushes",
+        "Stellar's jays",
+        "Black-capped chickadees",
+        "Banana slugs"
+      ],
+      "wildlifeTip": "At Capilano Suspension Bridge Park, keep an eye out for Douglas squirrels and various bird species in the treetops. The park's temperate rainforest environment is also home to many small creatures like banana slugs.",
+      "photographyTip": "At Miku, capture the artful presentation of the Aburi sushi - natural light near a window works best for food photography. At Capilano Suspension Bridge, use a slow shutter speed (1/15 sec or slower) to blur the motion of people walking across, creating a sense of movement. A tripod or stable surface is crucial for this shot.",
+      "mapInfo": {
+        "latitude": 49.3428,
+        "longitude": -123.1147,
+        "zoomLevel": 13,
+        "description": "Map showing Miku Restaurant in downtown and Capilano Suspension Bridge to the north"
+      }
+    },
+    {
+      "date": "2024-08-11",
+      "title": "Sunday, August 11, 2024 (Day 1 - Embarkation)",
+      "activities": [
+        {
+          "time": "11:00",
+          "endTime": "11:30",
+          "description": "Check-in at Canada Place cruise terminal"
+        },
+        {
+          "description": "Board Brilliance of the Seas (Stateroom 9068, Deck 9)"
+        },
+        {
+          "time": "17:00",
+          "description": "Ship departs Vancouver"
+        },
+        {
+          "time": "17:30",
+          "description": "Dinner (Traditional dining)"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Harbor seals",
+        "Seagulls",
+        "Bald eagles",
+        "Porpoises"
+      ],
+      "wildlifeTip": "As the ship departs, watch the waters around the harbor for seals and porpoises. Seagulls will likely be visible, and you might spot a bald eagle perched on a pier or flying overhead.",
+      "photographyTip": "As the ship departs, head to the upper deck to capture the Vancouver skyline. The golden hour light can create a beautiful glow on the city and mountains. Experiment with panorama mode on your phone for a sweeping vista. Don't forget to take some photos of your family's excitement as you embark!",
+      "mapInfo": {
+        "latitude": 49.2888,
+        "longitude": -123.1111,
+        "zoomLevel": 16,
+        "description": "Detailed view of Canada Place cruise terminal"
+      }
+    },
+    {
+      "date": "2024-08-12",
+      "title": "Monday, August 12, 2024 (Day 2 - At Sea, Inside Passage)",
+      "activities": [
+        {
+          "time": "10:45",
+          "description": "Couple's massage (Stephen and Lisa)"
+        },
+        {
+          "time": "17:30",
+          "description": "Dinner"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Humpback whales",
+        "Orcas",
+        "Dall's porpoises",
+        "Pacific white-sided dolphins",
+        "Bald eagles",
+        "Various seabirds (puffins, albatrosses, petrels)"
+      ],
+      "wildlifeTip": "The Inside Passage is rich with marine life. Look for whale spouts on the horizon and ripples in the water that might indicate dolphins or porpoises. Bring binoculars to get a closer look at seabirds flying alongside the ship.",
+      "photographyTip": "The Inside Passage offers incredible landscape opportunities. Use a polarizing filter to reduce glare on the water and enhance the colors of the scenery. For wildlife, a telephoto lens or your camera's zoom feature will be invaluable. Be patient and keep your camera ready - wildlife can appear when you least expect it.",
+      "mapInfo": {
+        "latitude": 54.0,
+        "longitude": -130.0,
+        "zoomLevel": 6,
+        "description": "Overview of the Inside Passage route"
+      }
+    },
+    {
+      "date": "2024-08-13",
+      "title": "Tuesday, August 13, 2024 (Day 3 - Sitka)",
+      "activities": [
+        {
+          "description": "Tour in Sitka with the Shins (exact times TBD)"
+        },
+        {
+          "time": "17:30",
+          "description": "Dinner"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Sea otters",
+        "Bald eagles",
+        "Harbor seals",
+        "Sitka black-tailed deer",
+        "Brown bears (if visiting Fortress of the Bear)",
+        "Various seabirds (puffins, gulls, cormorants)"
+      ],
+      "wildlifeTip": "Sitka's waters are home to playful sea otters. Look for them floating on their backs, often with a pup on their chest. Near shore, scan the trees for bald eagles - Sitka has one of the highest concentrations in the world.",
+      "photographyTip": "In Sitka, use a wide-angle lens to capture the totem poles at the National Historical Park against the forest backdrop. For wildlife like sea otters and eagles, switch to a longer lens if you have one, or use your camera's maximum zoom. The harbor can provide beautiful shots of fishing boats with mountains in the background.",
+      "mapInfo": {
+        "latitude": 57.0531,
+        "longitude": -135.3300,
+        "zoomLevel": 15,
+        "description": "Sitka town center and nearby attractions"
+      }
+    },
+    {
+      "date": "2024-08-14",
+      "title": "Wednesday, August 14, 2024 (Day 4 - Juneau)",
+      "activities": [
+        {
+          "description": "Explore Juneau: Mount Roberts Tramway, Alaska State Museum, State Capitol"
+        },
+        {
+          "time": "17:30",
+          "description": "Dinner"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Bald eagles",
+        "Mountain goats",
+        "Black bears",
+        "Porcupines",
+        "Harbor seals (if visiting Mendenhall Glacier)"
+      ],
+      "wildlifeTip": "At the top of Mount Roberts, look for mountain goats on the rocky slopes. If you visit Mendenhall Glacier, watch for black bears fishing for salmon in the nearby streams during spawning season.",
+      "photographyTip": "From the Mount Roberts Tramway, take panoramic shots of Juneau and the surrounding landscape. The varying elevations offer great opportunities for layered landscape shots. If you visit Mendenhall Glacier, include people or objects in the foreground to show scale. The blue ice can be enhanced with slight saturation adjustments in post-processing.",
+      "mapInfo": {
+        "latitude": 58.3019,
+        "longitude": -134.4197,
+        "zoomLevel": 15,
+        "description": "Juneau downtown area, highlighting Mount Roberts Tramway, Alaska State Museum, and State Capitol"
+      }
+    },
+    {
+      "date": "2024-08-15",
+      "title": "Thursday, August 15, 2024 (Day 5 - Icy Strait Point)",
+      "activities": [
+        {
+          "time": "08:30",
+          "endTime": "11:00",
+          "description": "Whale Watching excursion"
+        },
+        {
+          "time": "17:30",
+          "description": "Dinner"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Humpback whales",
+        "Sea otters",
+        "Bald eagles",
+        "Harbor seals",
+        "Sitka black-tailed deer",
+        "Various seabirds (puffins, gulls, cormorants)"
+      ],
+      "wildlifeTip": "During the whale watching tour, listen for the loud exhale of humpback whales before you see them. Watch for their flukes (tails) as they dive. Orcas often travel in pods, so if you see one, keep watching for others.",
+      "photographyTip": "During whale watching, use a fast shutter speed (at least 1/1000 sec) to freeze action of breaching whales or splashing tails. Continuous shooting mode can help capture the perfect moment. On land, the restored salmon cannery offers interesting textures and colors for detail shots - look for close-ups of weathered wood or old machinery.",
+      "mapInfo": {
+        "latitude": 58.3089,
+        "longitude": -135.7628,
+        "zoomLevel": 8,
+        "description": "Icy Strait Point and surrounding waters for whale watching"
+      }
+    },
+    {
+      "date": "2024-08-16",
+      "title": "Friday, August 16, 2024 (Day 6 - At Sea)",
+      "activities": [
+        {
+          "time": "13:15",
+          "endTime": "15:15",
+          "description": "Lunch at Izumi restaurant"
+        },
+        {
+          "time": "17:30",
+          "description": "Dinner"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Humpback whales",
+        "Orcas",
+        "Harbor seals",
+        "Mountain goats (on cliffs)",
+        "Bald eagles",
+        "Various seabirds"
+      ],
+      "wildlifeTip": "As you cruise through Tracy Arm Fjord, watch for seals resting on ice floes. Mountain goats can sometimes be spotted on the steep cliffs flanking the fjord - their white coats stand out against the dark rock.",
+      "photographyTip": "For Tracy Arm Fjord, use the fjord walls as leading lines to draw the eye to glaciers. The scale can be hard to capture, so try to include the ship or smaller boats in your shots for perspective. For calving glaciers, continuous shooting mode can help you capture the exact moment of ice breaking off.",
+      "mapInfo": {
+        "latitude": 57.8361,
+        "longitude": -133.6208,
+        "zoomLevel": 8,
+        "description": "Overview of Tracy Arm Fjord"
+      }
+    },
+    {
+      "date": "2024-08-17",
+      "title": "Saturday, August 17, 2024 (Day 7 - At Sea, Inside Passage)",
+      "activities": [
+        {
+          "time": "17:30",
+          "description": "Dinner"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Humpback whales",
+        "Orcas",
+        "Dall's porpoises",
+        "Pacific white-sided dolphins",
+        "Bald eagles",
+        "Various seabirds (puffins, albatrosses, petrels)"
+      ],
+      "wildlifeTip": "Keep an eye out for Dall's porpoises - they often ride the bow wave of the ship. Their black and white coloration can make them look like mini orcas. Also, watch for the distinctive V-shaped blow of humpback whales on the horizon.",
+      "photographyTip": "Take advantage of the extended daylight to capture the changing colors of the sky and sea throughout the day. Early morning and late evening light can create beautiful warm tones on the water and landscapes. Don't forget to take some photos onboard the ship too - candid shots of your family enjoying activities can be great memories.",
+      "mapInfo": {
+        "latitude": 54.0,
+        "longitude": -130.0,
+        "zoomLevel": 5,
+        "description": "Overview of the Inside Passage route"
+      }
+    },
+    {
+      "date": "2024-08-18",
+      "title": "Sunday, August 18, 2024 (Day 8 - Vancouver)",
+      "activities": [
+        {
+          "time": "07:00",
+          "description": "Arrive in Vancouver, disembarkation"
+        },
+        {
+          "time": "09:30",
+          "endTime": "15:30",
+          "description": "Sea to Sky and Shannon Falls excursion"
+        },
+        {
+          "time": "23:00",
+          "description": "Depart YVR on DL 7057 to Atlanta"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Bald eagles",
+        "Black bears",
+        "Marmots",
+        "Deer",
+        "Various songbirds"
+      ],
+      "wildlifeTip": "On the Sea to Sky Highway, watch for bald eagles soaring overhead or perched in tall trees near the water. At Shannon Falls, listen for the chirping of varied thrushes and other forest birds.",
+      "photographyTip": "The Sea to Sky Highway offers numerous scenic viewpoints - don't hesitate to ask your driver to stop briefly for photos. At Shannon Falls, use a neutral density filter and long exposure (several seconds) to create a silky water effect. If you don't have filters, try your phone's Live mode or burst mode to capture the movement of the water.",
+      "mapInfo": {
+        "latitude": 49.6957,
+        "longitude": -123.1557,
+        "zoomLevel": 9,
+        "description": "Overview of Sea to Sky Highway from Vancouver to Shannon Falls"
+      }
+    },
+    {
+      "date": "2024-08-19",
+      "title": "Monday, August 19, 2024",
+      "activities": [
+        {
+          "time": "06:50",
+          "description": "Arrive in Atlanta (ATL)"
+        },
+        {
+          "time": "11:00",
+          "description": "Depart ATL on DL 719"
+        },
+        {
+          "time": "12:41",
+          "description": "Arrive in Washington (IAD)"
+        }
+      ],
+      "wildlifeChecklist": [
+        "Person wearing Atlanta Braves or Falcons gear",
+        "Someone saying \"y'all\" at least three times in one sentence",
+        "Group debating the best place for peach cobbler",
+        "Person spreading the gospel of Coca-Cola",
+        "Someone looking confused by the Plane Train announcements"
+      ],
+      "wildlifeTip": "While airports aren't known for wildlife, you might spot some interesting 'species' of travelers. Keep an eye out for the elusive 'airport jogger' sprinting to their gate, or the 'lost luggage hunter' circling the baggage claim.",
+      "photographyTip": "Look for geometric patterns and interesting light in Atlanta airport's architecture. The large windows can create interesting shadow patterns throughout the day. For a unique perspective, try some low-angle shots looking up at the terminal structures or artwork.",
+      "mapInfo": {
+        "latitude": 33.6407,
+        "longitude": -84.4277,
+        "zoomLevel": 12,
+        "description": "Overview of Atlanta Hartsfield-Jackson International Airport"
+      }
+    }
+  ]
+}
